@@ -1,0 +1,32 @@
+_repo: They-Also-Serve_30474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Westlake, Donald E.
+    aliases:
+    - Westlake, Donald Edwin Edmund
+    - Westlake, D. E. (Donald E.)
+    birthdate: 1933
+    deathdate: 2008
+    gutenberg_agent_id: '32451'
+    url: http://www.gutenberg.org/2009/agents/32451
+    wikipedia: http://en.wikipedia.org/wiki/Donald_E._Westlake
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: They Also Serve
+url: http://www.gutenberg.org/ebooks/30474
